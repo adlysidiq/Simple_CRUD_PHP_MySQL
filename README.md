@@ -36,10 +36,6 @@ Struktur Folder
 
 Instalasi & Setup
 
-1. Clone Repository
-git clone https://github.com/adlysidiq/crud-biodata.git
-cd crud-biodata
-
 2. Konfigurasi Database
 ~~ Buat database baru di phpmyadmin bernama biodata_db
 ~~ Jalankan SQL berikut untuk membuat tabel:
