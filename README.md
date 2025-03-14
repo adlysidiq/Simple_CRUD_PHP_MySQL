@@ -19,20 +19,7 @@ Teknologi Yang Digunakan
 
 Struktur Folder
 
-/Simple_CRUD_PHP_MySQL
-|──/ assets
-|──── style.css
-|──/ config
-|──── delete.php
-|──── koneksi.php
-|──── post.php
-|──── update.php
-|──/ view
-|──── entrybiografi.php
-|──── index.php
-|──── updatebiografi.php
-|── index.php
-|── README.md
+kosong
 
 Instalasi & Setup
 
